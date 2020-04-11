@@ -9,56 +9,56 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hello, I am',
+  name: 'Manik A A Ngurah,',
+  subtitle: 'Junior Web Developer',
+  cta: 'Discover more',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  img: 'profilepic.jpg',
+  paragraphOne: 'In constant training Web Developer, natural curious coding passionate, eager to learn more about tech environment.',
+  paragraphTwo: 'Coming from the hospitality industry, I decided to change my path of interests when I discovered about how coding could improve my creativity and my way of thinking.',
+  paragraphThree: 'Recently completed Le Wagon Full-Stack Web Development Bootcamp, where I learned the essential skills to become a developer, now I am more motivated to strenghthen my newly skills and curious to try new technologies.',
+  resume: 'https://www.docdroid.net/R4uMY03/maniks-resume-pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'apartment1.jpeg',
+    title: 'Friend It',
+    info: 'Your community first rental solution.',
+    info2: 'An MVP of a project, built in the last 10 days of Le Wagon Bootcamp',
+    url: 'http://friend-it.herokuapp.com/',
+    repo: 'https://github.com/Marko-polo-code/Friend-It', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'cocktail2.jpeg',
+    title: 'Mr. Cocktail',
+    info: 'A simple cocktail manager and library.',
+    info2: 'Feel free to add you own!',
+    url: 'https://mister-cocktail-manik.herokuapp.com/cocktails/',
+    repo: 'https://github.com/Manik5/rails-mister-cocktail', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'covid19.jpeg',
+    title: 'Covid-19 Tracker',
+    info: 'My first project using ReactJs.',
+    info2: 'Check out the global situation about the Covid-19.',
+    url: 'https://covid-19-tracker-delta.now.sh/',
+    repo: 'https://github.com/Manik5/covid-19-tracker', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
+  cta: 'Would you like to know more about me?',
+  btn: 'Contact Me',
   email: '',
 };
 
@@ -67,28 +67,18 @@ export const footerData = {
   networks: [
     {
       id: uuidv1(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv1(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: uuidv1(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/manik-a-a-ngurah-59b228149/',
     },
     {
       id: uuidv1(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Manik5',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
