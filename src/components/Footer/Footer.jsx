@@ -35,7 +35,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          Find Me{' '}
+          {' '}
           <a href="" target="_blank" rel="noopener noreferrer">
           </a>
         </p>
