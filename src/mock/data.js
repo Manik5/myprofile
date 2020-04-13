@@ -75,6 +75,11 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/Manik5',
     },
+    {
+      id: uuidv1(),
+      name: 'instagram',
+      url: 'https://www.instagram.com/keysnam/',
+    },
   ],
 };
 
