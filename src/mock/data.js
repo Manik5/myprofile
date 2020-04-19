@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'apartment1.jpeg',
     title: 'Friend It',
     info: 'Your community first rental solution.',
-    info2: 'Having a problem to book a flat? Check out this flat-rent community based among your friends',
+    info2: 'Having a problem to book a flat? Check out this flat-rent trusted community based on your first and second degree contacts',
     url: 'http://friend-it.herokuapp.com/',
     repo: 'https://github.com/Marko-polo-code/Friend-It', // if no repo, the button will not show up
   },
