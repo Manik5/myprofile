@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'apartment1.jpeg',
     title: 'Friend It',
     info: 'Your community first rental solution.',
-    info2: 'An MVP of a project, built in the last 10 days of Le Wagon Bootcamp',
+    info2: 'Having a problem to book a flat? Check out this flat-rent community based among your friends',
     url: 'http://friend-it.herokuapp.com/',
     repo: 'https://github.com/Marko-polo-code/Friend-It', // if no repo, the button will not show up
   },
