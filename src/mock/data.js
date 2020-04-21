@@ -48,7 +48,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'covid19.jpeg',
     title: 'Covid-19 Tracker',
-    info: 'My first project using ReactJs.',
+    info: 'My first project using React.js',
     info2: 'Check out the global situation about the Covid-19.',
     url: 'https://covid-19-tracker-delta.now.sh/',
     repo: 'https://github.com/Manik5/covid-19-tracker', // if no repo, the button will not show up
