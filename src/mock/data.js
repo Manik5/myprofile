@@ -78,7 +78,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'instagram',
-      url: 'https://www.instagram.com/keysnam/',
+      url: 'https://www.instagram.com/keysnam5/',
     },
     {
       id: uuidv1(),
