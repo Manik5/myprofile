@@ -80,6 +80,11 @@ export const footerData = {
       name: 'instagram',
       url: 'https://www.instagram.com/keysnam/',
     },
+    {
+      id: uuidv1(),
+      name: 'codepen',
+      url: 'https://codepen.io/manik5',
+    },
   ],
 };
 
