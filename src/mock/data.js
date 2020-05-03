@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'covid19.jpeg',
-    title: 'Covid-19 Tracker',
-    info: 'My first project using React.js',
-    info2: 'Check out the global situation about the Covid-19.',
-    url: 'https://covid-19-tracker-delta.now.sh/',
-    repo: 'https://github.com/Manik5/covid-19-tracker', // if no repo, the button will not show up
+    img: 'music.jpeg',
+    title: 'Crown Music',
+    info: 'A simple music shop, created with React | Redux',
+    info2: 'Check out the perfect music instrument to fit your needs, in Crown Music',
+	url: 'https://crown-music-live.herokuapp.com/',
+	repo: 'https://github.com/Manik5/CrownMusic', // if no repo, the button will not show up
   },
 ];
 
