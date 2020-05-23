@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hello, I am',
+  title: 'Hi There! I am',
   name: 'Manik',
   subtitle: 'Junior Full-Stack Web Developer',
   cta: 'Discover more',
@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'Your community first rental solution.',
     info2: 'Having a problem to book a flat? Check out this flat-rent trusted community based on your first and second degree contacts',
     url: 'http://friend-it.herokuapp.com/',
-    repo: 'https://github.com/Marko-polo-code/Friend-It', // if no repo, the button will not show up
+    repo: 'https://github.com/Marko-polo-code/Friend-It',
   },
   {
     id: uuidv1(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'A simple cocktail manager and library.',
     info2: 'Feel free to add you own!',
     url: 'https://mister-cocktail-manik.herokuapp.com/cocktails/',
-    repo: 'https://github.com/Manik5/rails-mister-cocktail', // if no repo, the button will not show up
+    repo: 'https://github.com/Manik5/rails-mister-cocktail',
   },
   {
     id: uuidv1(),
@@ -50,14 +50,23 @@ export const projectsData = [
     title: 'Crown Music',
     info: 'A simple music shop, created with React | Redux',
     info2: 'Check out the perfect music instrument to fit your needs, in Crown Music',
-	url: 'https://crown-music-live.herokuapp.com/',
-	repo: 'https://github.com/Manik5/CrownMusic', // if no repo, the button will not show up
-  },
+		url: 'https://crown-music-live.herokuapp.com/',
+		repo: 'https://github.com/Manik5/CrownMusic',
+	},
+	{
+		id: uuidv1(),
+		img: 'covid19.jpeg',
+		title: 'Covid-19 Tracker',
+		info: 'Simple tracker of the worldwide situation regarding Covid-19',
+		// info2: 'Check out in real-time the ',
+		url: 'https://covid-19-tracker-delta.now.sh/',
+		repo: 'https://github.com/Manik5/covid-19-tracker',
+	}
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Would you like to know more about me?',
+  cta: 'Get in Touch!',
   btn: 'Contact Me',
   email: 'manik.aangurah@gmail.com',
 };
