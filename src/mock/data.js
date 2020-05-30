@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profilepic.jpg',
   paragraphOne: 'In constant training Developer, natural curious coding passionate, eager to learn more about tech environment.',
   paragraphTwo: 'Coming from the hospitality industry, I decided to change my path of interests when I discovered about how coding could improve my creativity and my way of thinking.',
-  paragraphThree: 'Recently completed Le Wagon Full-Stack Web Development Bootcamp, where I learned from how to manage a database to how to give beautiful UI / UX experience. Now I am more motivated to solidify my newly skills within new opportunities and satisfying my curiosity trying new technologies.',
+  paragraphThree: 'Recently completed Le Wagon Full-Stack Web Development Bootcamp, where I learned from how to manage a database to how to give beautiful UI / UX experience. Now I am more motivated to solidify my newly skills with new opportunities.',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'apartment1.jpeg',
+    img: 'friendit.png',
     title: 'Friend It',
     info: 'Your community first rental solution.',
     info2: 'Having a problem to book a flat? Check out this flat-rent trusted community based on your first and second degree contacts',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'cocktail2.jpeg',
+    img: 'cocktail.png',
     title: 'Mr. Cocktail',
     info: 'A simple cocktail manager and library.',
     info2: 'Feel free to add you own!',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'music.jpeg',
+    img: 'music.png',
     title: 'Crown Music',
     info: 'A simple music shop, created with React | Redux',
     info2: 'Check out the perfect music instrument to fit your needs, in Crown Music',
@@ -55,7 +55,7 @@ export const projectsData = [
 	},
 	{
 		id: uuidv1(),
-		img: 'covid19.jpeg',
+		img: 'covid19.png',
 		title: 'Covid-19 Tracker',
 		info: 'Simple tracker of the worldwide situation regarding Covid-19',
 		// info2: 'Check out in real-time the ',
@@ -66,9 +66,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Get in Touch!',
-  btn: 'Contact Me',
-  email: 'manik.aangurah@gmail.com',
+  cta: 'Have any ideas, projects in mind? Or just feeling to talk about something? ',
+  btn: 'Drop me a message',
+  email: 'manik.aangurah@gmal.com',
 };
 
 // FOOTER DATA
