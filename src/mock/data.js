@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: 'Hi There! I am',
   name: 'Manik',
-  subtitle: 'Junior Full-Stack Web Developer',
+  subtitle: 'Junior Full-Stack Developer',
   cta: 'Discover more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profilepic2.jpeg',
-  paragraphOne: 'In constant training Developer, natural curious coding passionate, eager to learn more about tech environment.',
-  paragraphTwo: 'Coming from the hospitality industry, I decided to change my path of interests when I discovered about how coding could improve my creativity and my way of thinking.',
-  paragraphThree: 'Recently completed Le Wagon Full-Stack Web Development Bootcamp, where I learned from how to manage a database to how to give beautiful UI / UX experience. Now I am more motivated to solidify my newly skills with new opportunities.',
+  paragraphOne: 'Hey! That is me on the left, or above, depends on what device you are using.',
+  paragraphTwo: 'I am a newly Developer, with a natural curiosity and passion for the tech world. I develop mostly with React, React Native and Rails.',
+  paragraphThree:	'Recently completed Le Wagon Full-Stack Web Development Bootcamp, I learned how to manage a database, to all the way up to create simple and beautiful UI / UX experience. Now I am looking to solidify my new skills with new opportunities .',
   resume: '', // if no resume, the button will not show up
 };
 
