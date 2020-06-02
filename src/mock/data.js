@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profilepic2.jpeg',
   paragraphOne: 'Hey! That is me on the left, or above, depends on what device you are using.',
   paragraphTwo: 'I am a "still in training" Developer, with a natural curiosity and passion for the tech world. I develop mostly with React, React Native and Rails.',
-  paragraphThree:	'Recently completed Le Wagon Full-Stack Web Development Bootcamp, I learned how to manage a database, to all the way up to create simple and beautiful UI / UX experience. Now I am looking to solidify my new skills with new opportunities .',
+  paragraphThree:	'Powered by Figma, VS Code and some coffee, I aim to deliver solid, reusable code, and a simple UI / UX experience.',
   resume: '', // if no resume, the button will not show up
 };
 
