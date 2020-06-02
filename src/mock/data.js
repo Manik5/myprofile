@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profilepic2.jpeg',
   paragraphOne: 'Hey! That is me on the left, or above, depends on what device you are using.',
   paragraphTwo: 'I am a "still in training" Developer, with a natural curiosity and passion for the tech world. I develop mostly with React, React Native and Rails.',
-  paragraphThree:	'Powered by Figma, VS Code and some coffee, I aim to deliver solid, reusable code, and a simple UI / UX experience.',
+  paragraphThree:	'Powered by Figma, VS Code and some coffee, I aim to deliver solid, reusable code, and a simple UI / UX experience. Hit me up, if you have any question',
   resume: '', // if no resume, the button will not show up
 };
 
@@ -66,7 +66,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Have any ideas, projects in mind? Or just feeling to talk about something? ',
+  cta: 'Have any ideas, projects in mind? Or just fancy to say hi? ',
   btn: 'Drop me a message',
   email: 'manik.aangurah@gmal.com',
 };
