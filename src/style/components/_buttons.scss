@@ -76,7 +76,7 @@
   border: 2px solid $white-color;
 
   &::after {
-    background: $white-color;
+    background: $dark-blue-text;
   }
 
   &:hover {
@@ -91,5 +91,5 @@
 
 /* Arrow Button */
 .up i {
-  color: #272727;
+  color: $dark-blue-text;
 }
