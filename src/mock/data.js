@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'A simple music shop, created with React | Redux',
     info2: 'Check out the perfect music instrument to fit your needs, in Crown Music',
 		url: 'https://crown-music-live.herokuapp.com/',
-		repo: 'https://github.com/Manik5/CrownMusic',
+		repo: 'https://github.com/Manik5/Crown-Music-without-redux-saga',
 	},
 	{
 		id: uuidv1(),
@@ -87,7 +87,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'instagram',
-      url: 'https://www.instagram.com/keysnam5/',
+			url: 'https://www.instagram.com/keysnam/',
     },
     {
       id: uuidv1(),
